@@ -1,5 +1,5 @@
 # ForzaTelemetryMonitor
-English&amp;中文 Forza Horizon &amp; Motorsport telemetry monitor for  — live charts, G-Force, track map, replay &amp; more. Built with .NET 8 WPF + SkiaSharp.
+English&amp;中文 Forza Horizon 5-4 &amp; Motorsport telemetry monitor for  — live charts, G-Force, track map, replay &amp; more. Built with .NET 8 WPF + SkiaSharp.
 
 [中文介绍](README-中文.md)
 
