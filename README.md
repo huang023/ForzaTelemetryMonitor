@@ -3,6 +3,8 @@ English&amp;中文 Forza Horizon &amp; Motorsport telemetry monitor for  — liv
 
 [中文介绍](README-中文.md)
 
+[Download](https://github.com/huang023/ForzaTelemetryMonitor/releases)
+
 1. Language currently supports English and Chinese.
 2. Compatible with Forza Motorsport and Horizon series (likely also supports future Horizon 6).
 3. Multi-chart / Data merging / Free drag-and-drop layout.
