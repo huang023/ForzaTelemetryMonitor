@@ -1,7 +1,7 @@
 # ForzaTelemetryMonitor
 English&amp;中文 Forza Horizon &amp; Motorsport telemetry monitor for  — live charts, G-Force, track map, replay &amp; more. Built with .NET 8 WPF + SkiaSharp.
 
-中文介绍：
+[中文介绍](README-中文.md)
 
 1. Language currently supports English and Chinese.
 2. Compatible with Forza Motorsport and Horizon series (likely also supports future Horizon 6).
