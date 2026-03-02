@@ -3,6 +3,8 @@ English&amp;中文 Forza Horizon 5-4 &amp; Motorsport telemetry monitor for  —
 
 [中文介绍](README-中文.md)      [B站教程](https://www.bilibili.com/video/BV1oRAaz1E6p)
 
+[YouTube](https://www.youtube.com/watch?v=YztHxbQQmAQ)
+
 [Download](https://github.com/huang023/ForzaTelemetryMonitor/releases)
 
 1. Language currently supports English and Chinese.
